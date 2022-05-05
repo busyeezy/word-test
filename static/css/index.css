@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Dokdo&family=Press+Start+2P&display=swap");
-@import "src/css/main.css";
+@import "./main.css";
 
 body {
   background-color: #fd5d5d;
